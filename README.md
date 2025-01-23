@@ -1,8 +1,8 @@
 # theflash9z-
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, Jakkula Veerababu  👋🏼:
+🛜 My LinkedIn  [profile](https://www.linkedin.com/in/jakkula-veerababu-b56660301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>👨🏼‍🎓 studying Btech electronics and communication engineering at Narasaraopet engineering college <br>👨🏼‍💻 Under graduate  <br>🎬 just started out with my youtube channel <i>Jakkula VeeraBabu</i>
 
 
 # 💻 Tech Stack:
